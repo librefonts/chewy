@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Chewy-VTT.ttf.GlyphOrder.ttx"/>
+  <head src="Chewy-VTT.ttf._h_e_a_d.ttx"/>
+  <hhea src="Chewy-VTT.ttf._h_h_e_a.ttx"/>
+  <maxp src="Chewy-VTT.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Chewy-VTT.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Chewy-VTT.ttf._h_m_t_x.ttx"/>
+  <cmap src="Chewy-VTT.ttf._c_m_a_p.ttx"/>
+  <fpgm src="Chewy-VTT.ttf._f_p_g_m.ttx"/>
+  <prep src="Chewy-VTT.ttf._p_r_e_p.ttx"/>
+  <cvt src="Chewy-VTT.ttf._c_v_t.ttx"/>
+  <loca src="Chewy-VTT.ttf._l_o_c_a.ttx"/>
+  <glyf src="Chewy-VTT.ttf._g_l_y_f.ttx"/>
+  <kern src="Chewy-VTT.ttf._k_e_r_n.ttx"/>
+  <name src="Chewy-VTT.ttf._n_a_m_e.ttx"/>
+  <post src="Chewy-VTT.ttf._p_o_s_t.ttx"/>
+  <gasp src="Chewy-VTT.ttf._g_a_s_p.ttx"/>
+  <TSI0 src="Chewy-VTT.ttf.T_S_I__0.ttx"/>
+  <TSI1 src="Chewy-VTT.ttf.T_S_I__1.ttx"/>
+  <TSI2 src="Chewy-VTT.ttf.T_S_I__2.ttx"/>
+  <TSI3 src="Chewy-VTT.ttf.T_S_I__3.ttx"/>
+  <TSI5 src="Chewy-VTT.ttf.T_S_I__5.ttx"/>
+</ttFont>
